@@ -1,0 +1,5 @@
+Full Name = Williams Charles.
+Email Address = charlesclinton2003@gmail.com.
+Slack Username = charleyvibez.
+Registered Tracks = Backend and Mobile.
+Registered Courses = Python and Flutter.
