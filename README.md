@@ -25,5 +25,3 @@ Hi there 👋, I'm Charles
 </div>
 
 ![Profile views](https://gpvc.arturio.dev/charleyvibez)
-
-
