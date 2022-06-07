@@ -1,6 +1,6 @@
 Hi there 👋, I'm Charles
 
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently working with Golang
 - 👯 I’m looking to collaborate on Golang Projects
 
 <div align="center"><br>
